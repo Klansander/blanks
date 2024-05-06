@@ -1,0 +1,44 @@
+Code: 200
+Summary: Request successful
+Level: INFO
+CreatedAt: 2024-04-18T13:48:55+03:00
+UserID: 8e952f9b-4c6e-4ca7-bb88-96f721ddaf10
+Action: GET
+Status: Success
+Message: 
+StartedAt: 2024-04-18T13:48:55+03:00
+CompletedAt: 2024-04-18T13:48:55+03:00
+
+Code: 500
+Summary: Internal server error
+Level: ERROR
+CreatedAt: 2024-04-18T13:48:55+03:00
+UserID: 3f99f360-ee22-461d-83c0-4b8a9386ad85
+Action: POST
+Status: Failed
+Message: Database connection error
+StartedAt: 2024-04-18T13:48:55+03:00
+CompletedAt: 2024-04-18T13:48:55+03:00
+
+Code: 404
+Summary: Not found
+Level: WARN
+CreatedAt: 2024-04-17T12:48:55+03:00
+UserID: 51d8247b-04e2-4526-a124-be45b0b0aba7
+Action: GET
+Status: Error
+Message: Resource not found
+StartedAt: 2024-04-17T12:48:55+03:00
+CompletedAt: 2024-04-17T12:48:56+03:00
+
+Code: 201
+Summary: Resource created
+Level: INFO
+CreatedAt: 2024-04-18T13:48:55+03:00
+UserID: 1021dc67-6314-4389-be3e-9609d05b6640
+Action: POST
+Status: Success
+Message: 
+StartedAt: 2024-04-18T13:48:55+03:00
+CompletedAt: 2024-04-18T13:48:55+03:00
+
